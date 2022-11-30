@@ -1,0 +1,1 @@
+get-verb | format-list |select-object -First 10
