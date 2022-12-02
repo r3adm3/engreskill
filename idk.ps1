@@ -1,0 +1,1 @@
+Get-command *item* | Format-Table
