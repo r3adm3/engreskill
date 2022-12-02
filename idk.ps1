@@ -17,3 +17,10 @@ $hairint = Read-Host -Prompt "Please enter the number of days between hair cuts 
   
 . Get-BathHairCoincidenceProbability $bathint $hairint
 ## Just for reference this is not my code. I dont need to calculate this.
+
+Get-Command
+Get-Process ## changed this line from boring get-command
+Get-AppPackage
+Get-Alias
+Get-AppPackage
+
