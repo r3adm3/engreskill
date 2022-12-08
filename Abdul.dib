@@ -1,0 +1,10 @@
+#!markdown
+
+loop through the array and print each item
+print the seccond item directly
+loop through the array backwards and print each item
+loop through the array print only the item with no upper-case letter
+
+#!pwsh
+
+$Footballcountries = @('England','Brazil', 'Spain', 'France', 'Portugal')
